@@ -1,0 +1,5 @@
+pandas
+spacy
+lxml
+tqdm
+spacy-transformers
